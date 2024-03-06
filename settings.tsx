@@ -3,7 +3,7 @@
 export const mintText = [
   {
     label: "WL",
-    mintText: "WL mint paying with CIF - 15,0000",
+    mintText: "WL Mint - 15,000 $CIF",
     buttonLabel: "Mint now!",
     header: "WL Mint",
   },
@@ -15,7 +15,7 @@ export const mintText = [
   },
   {
     label: "Public",
-    mintText: "Mint Paying with CIF - 20,000",
+    mintText: "Public Mint - 20,000 $CIF",
     buttonLabel: "Mint now!",
     header: "Public Mint",
   },
